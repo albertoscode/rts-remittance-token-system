@@ -9,7 +9,7 @@
 - [Disclaimer](#disclaimer)
 - [References](#references)
 - [License](#license)
-- [Contact Information](#contact-information)
+- [Contact Information](#contact)
 
 ## Project Description <a name="project-description"></a>
 This project provides scripts for issuing a new token, RTS, on the XRP Ledger. The RTS token is designed to facilitate easy, cost-effective remittance payments across the Americas.
