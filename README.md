@@ -59,7 +59,7 @@ The scripts provided in this project are for educational and testing purposes on
 ## License <a name="license"></a>
 This project is licensed under the terms of the MIT license. See the [LICENSE](License.txt) file for license rights and limitations.
 
-[Back to top](#rt-token-project)
+[Back to Top](#remittance-token-system-rts-project)
 
 ## Contact
 For any further inquiries or questions, feel free to reach out:
@@ -67,4 +67,4 @@ For any further inquiries or questions, feel free to reach out:
 - Email: [ah8664383@gmail.com](ah8664383@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/albertoscode/](https://www.linkedin.com/in/albertoscode/)
 
-[Back to top](#rt-token-project)
+[Back to Top](#remittance-token-system-rts-project)
